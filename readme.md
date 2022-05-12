@@ -55,3 +55,9 @@ score.py
 
 - Implement the UI Score element
 - When initializing the Class you should specify for player 1 or 2
+
+---
+
+<p align="center"> <a href="https://twitter.com/paulstryd" target="blank"><img src="https://img.shields.io/twitter/follow/paulstryd?logo=twitter&style=for-the-badge" alt="paulstryd" /></a> </p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/paulsmts"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulsmts" /></a></p><br><br>
